@@ -10,8 +10,8 @@ This project aims to utilize a supervised learning approach to identify spam ema
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/ByteSlinger0307/Spam-Mail-Protection-Model.git
-    cd Spam-Mail-Protection-Model
+    git clone https://github.com/ByteSlinger0307/Spam-Mail-Protection.git
+    cd Spam_Mail_Protection_Model
     ```
 
 2. **Install the required dependencies**:
